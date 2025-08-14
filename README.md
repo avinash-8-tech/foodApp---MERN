@@ -72,12 +72,28 @@ npm run dev
 
 ### 3️⃣ Frontend
 ```bash
-cd admin
+cd admin<img width="1600" height="1745" alt="localhost_5173_cart" src="https://github.com/user-attachments/assets/8776db1a-23a5-45f7-b867-a88bc72eccec" />
+
 npm install
 npm run dev
 ```
 
-## 🖼️ App Showcase
+## 🖼️ App Showcase 👇
+
+<img width="650" height="6460" alt="localhost_5173_" src="https://github.com/user-attachments/assets/64cea836-70ae-4047-a963-7216482dbc07" />
+
+<img width="1600" height="1745" alt="localhost_5173_cart" src="https://github.com/user-attachments/assets/1fa3edd1-3205-4688-a039-4916ea65440b" />
+
+<img width="1600" height="1216" alt="localhost_5173_cart (1)" src="https://github.com/user-attachments/assets/8e335e7c-9919-454a-87dd-b974263e7699" />
 
 
 
+## 🖼️ Admin Panel Showcase 👇
+<br>
+
+
+<img width="1600" height="1045" alt="localhost_5174_add" src="https://github.com/user-attachments/assets/3da64bde-b1bc-49b2-9f52-6585a47c455c" />
+
+<img width="1600" height="1979" alt="localhost_5174_add (1)" src="https://github.com/user-attachments/assets/5c89457d-cd0b-47a2-881e-76ca59c7dd76" />
+
+<img width="1600" height="1045" alt="localhost_5174_add (2)" src="https://github.com/user-attachments/assets/6a8e41ea-c37d-4007-b15f-afee379a7dcb" />

@@ -72,8 +72,7 @@ npm run dev
 
 ### 3️⃣ Frontend
 ```bash
-cd admin<img width="1600" height="1745" alt="localhost_5173_cart" src="https://github.com/user-attachments/assets/8776db1a-23a5-45f7-b867-a88bc72eccec" />
-
+cd admin
 npm install
 npm run dev
 ```
